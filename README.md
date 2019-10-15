@@ -43,5 +43,5 @@ This project is licensed under the MIT License
 ## Resources
 
 * [Galio](https://galio.io/) - Use the power of react native to easily give life to your future mobile projects.
-* [React Native Paper](https://reactnativepaper.com)- React Native Paper is a high-quality, standard-compliant Material Design library that has you covered in all major use-cases..
+* [React Native Paper](https://reactnativepaper.com)- React Native Paper is a high-quality, standard-compliant Material Design library that has you covered in all major use-cases.
 
