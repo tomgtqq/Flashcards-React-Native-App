@@ -6,7 +6,7 @@ The "Flash Cards" is Udacity Reactnd project. It allows users to create differen
  </p>
 <br>
 
-<img align="right" src="https://react-1252743632.cos.ap-beijing.myqcloud.com/FlashCard/flashCard.gif" alt="drawing" width="250" height="500" />
+<img align="right" src="https://react-1252743632.cos.ap-beijing.myqcloud.com/FlashCard/ezgif.com-optimize.gif" alt="drawing" width="250" height="500" />
 
 ### Usage
 
